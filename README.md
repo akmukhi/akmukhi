@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aakash Mukhi
-- I am currently studying Computer Science at Wayne State University
+- I am currently working on expanding my software development skills
 - I am passionate about learning about emerging technology
 
 <!---
