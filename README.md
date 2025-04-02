@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Aakash Mukhi
-- I am currently working on expanding my software development skills
-- I am passionate about learning about emerging technology
+- 👋 Hi, I’m Aakash Mukhi, a passionate Software Engeiner specializing in Python Full Stack Development. I have extensive experience is building web applications with a focus on backend services and API development using Python and modern frameworks. I focus on writing efficient and scalable code. 
+
 
 <!---
 akmukhi/akmukhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
