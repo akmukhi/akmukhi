@@ -29,9 +29,9 @@ Currently, I’m working at **Ford Motor Company**, where I build and maintain *
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/aakashmukhi](https://www.linkedin.com/in/aakash-mukhi-561882118/)  
+- [LinkedIn](https://www.linkedin.com/in/aakash-mukhi-561882118/)  
 - [Email](mailto:akmukhi3@gmail.com)  
-- [GitHub](https://github.com/aakashmukhi](https://github.com/akmukhi)  
+- [GitHub](https://github.com/akmukhi)  
 
 ---
 💡 _I’m always open to collaborating on interesting projects, especially in **cloud infrastructure, automation, and platform engineering**._
