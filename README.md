@@ -2,9 +2,9 @@
 
 🚀 **Infrastructure Software Engineer | DevOps | Cloud-Native Advocate**
 
-I’m a **DevOps and Platform Engineer** with 3+ years of experience designing, building, and optimizing scalable cloud infrastructure. I specialize in **automation, CI/CD pipelines, and cloud-native architectures** — with a focus on **Google Cloud Platform**, **Terraform**, and **Kubernetes**.
+I’m a **DevOps and Platform Engineer** with 3+ years of experience designing, building, and optimizing scalable cloud infrastructure. I specialize in **automation, CI/CD pipelines, and cloud-native architectures** with a focus on **Google Cloud Platform**, **Terraform**, and **Kubernetes**.
 
-Currently, I’m working at **Ford Motor Company**, where I build and maintain **secure, automated deployment workflows** and **high-availability infrastructure**. I’m also pursuing my **GCP Professional DevOps Engineer certification** to deepen my cloud expertise.
+Currently, I’m working at **Ford Motor Company**, where I build and maintain **secure, automated deployment workflows** and **high-availability infrastructure**. 
 
 ---
 
