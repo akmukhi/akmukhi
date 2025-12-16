@@ -10,13 +10,13 @@ Currently, I’m working at **Ford Motor Company**, where I build and maintain *
 
 ## 🔧 Tech Stack & Skills
 
-- **Languages:** Python, Go, Java  
+- **Languages:** Python, Go, Java, Typsscript  
 - **Infrastructure as Code:** Terraform, Pulumi  
 - **Cloud Platforms:** Google Cloud Platform (GCP), AWS  
 - **Containers & Orchestration:** Kubernetes, Cloud Run, Docker  
 - **CI/CD:** GitHub Actions, Jenkins, Tekton  
 - **Security & Ops:** SecOps, SOAR, IAM best practices  
-- **Data & Automation:** ETL Pipelines, Cloud Functions
+- **Data & Automation:** ETL Pipelines, Cloud Functions, Redis, PostgreSQL
 
 ---
 
@@ -31,7 +31,8 @@ Currently, I’m working at **Ford Motor Company**, where I build and maintain *
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/aakash-mukhi-561882118/)  
 - [Email](mailto:akmukhi3@gmail.com)  
-- [GitHub](https://github.com/akmukhi)  
+- [GitHub](https://github.com/akmukhi)
+- [Portfolio](https://aakashmukhi.com)
 
 ---
 💡 _I’m always open to collaborating on interesting projects, especially in **cloud infrastructure, automation, and platform engineering**._
